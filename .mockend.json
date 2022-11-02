@@ -1,0 +1,41 @@
+{
+  "httpCode": 200,
+   "descripcion": "OK",
+   "data": [{
+		"NOMBRE_AGENTE" : "VICTORIA FERRADA",
+		"RUT_AGENTE" : "16.840.686-K",
+		"SPONSOR" : "15365900-1",
+		"SU" : 1
+	},
+
+	{
+		"NOMBRE_AGENTE" : "MARIA LOURDES",
+		"RUT_AGENTE" : "14.647.230-3",
+		"SPONSOR" : "15365900-1",
+		"SU" : 0
+	},
+	{
+		"NOMBRE_AGENTE" : "JUAN PABLO DIAZ",
+		"RUT_AGENTE" : "14.942.211-0",
+		"SPONSOR" : "15365900-1",
+		"SU" : 0
+	},
+	{
+		"NOMBRE_AGENTE" : "CRISTOBAL MARTINEZ",
+		"RUT_AGENTE" : "17.467.802-2",
+		"SPONSOR" : "15365900-1",
+		"SU" : 0
+	},
+	{
+		"NOMBRE_AGENTE" : "JUAN HENRIQUEZ",
+		"RUT_AGENTE" : "16.069.183-2",
+		"SPONSOR" : "15365900-1",
+		"SU" : 0
+	},
+	{
+		"NOMBRE_AGENTE" : "CRISTOBAL VALLADARES",
+		"RUT_AGENTE" : "16.163.383-6",
+		"SPONSOR" : "15365900-1",
+		"SU" : 0
+	}
+]}
