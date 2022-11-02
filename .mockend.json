@@ -1,7 +1,7 @@
 {
   "httpCode": 200,
    "descripcion": "OK",
-   "data": [{
+   "data": {
 		"NOMBRE_AGENTE" : "VICTORIA FERRADA",
 		"RUT_AGENTE" : "16.840.686-K",
 		"SPONSOR" : "15365900-1",
@@ -38,4 +38,4 @@
 		"SPONSOR" : "15365900-1",
 		"SU" : 0
 	}
-]}
+}
